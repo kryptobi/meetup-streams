@@ -1,5 +1,5 @@
 
-# 🔄 .NET Streams – Schreiben, Lesen, Puffern & Verwalten
+# 🔄 .NET Streams
 
 Dieses Projekt zeigt die Verwendung von **Streams** in C# mit einem Fokus auf:
 
